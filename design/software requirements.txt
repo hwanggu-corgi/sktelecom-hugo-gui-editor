@@ -1,16 +1,18 @@
 Collecting Requirements
-
-Example
-  - Create and edit text-based notes
-  - Attach photos
-  - Capture hand drawn skteches
-  - Allow protective/sensitive notes
-  - Sync data to dropbox, iCloud, or Google drive
+- Login via github
+- Create, edit, delete posts
+- Create, edit, delete category
+- Create preview screen for posts
+- Sync data to repository: sktelecom.github.io
 
 Functional Requirements
-  - It's a first draft to distilled requirements
+  - We need to build a gui-based content management app
+    - Users are logged in to main via github's Oauth
+    - Users can edit, delete and add posts
+    - Users can edit, delete and add categories
+    - The
+    - All changes
 
-Example
   - We need to build a note taking app. Users can create an edit text-based notes.
   Users can create an edit text-based notes. A note may also include images or hand-drawn sketches
 
@@ -19,8 +21,9 @@ Example
   Dropbox, iCloud, Google Drive
 
 Non-Functional Requirements
-  - Includes: which platform to target
+  - Includes: which platform to target, support page
 
   Example
   - Release our app for iOS first. We'll support iOS 10 and newer versions. The app needs to run on the iPhone and iPad as well.
+  - We'll create a dedicated support website and include the link in the app's description and it's About page
 
