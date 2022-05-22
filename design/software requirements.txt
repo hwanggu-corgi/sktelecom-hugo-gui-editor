@@ -10,7 +10,17 @@ Example
 Functional Requirements
   - It's a first draft to distilled requirements
 
+Example
+  - We need to build a note taking app. Users can create an edit text-based notes.
+  Users can create an edit text-based notes. A note may also include images or hand-drawn sketches
 
+  - Sensitive notes can be protected from prying eyes using password
+  - The app automatically uploads changes to pre-configured servers. We should support all major platforms:
+  Dropbox, iCloud, Google Drive
 
 Non-Functional Requirements
+  - Includes: which platform to target
+
+  Example
+  - Release our app for iOS first. We'll support iOS 10 and newer versions. The app needs to run on the iPhone and iPad as well.
 
