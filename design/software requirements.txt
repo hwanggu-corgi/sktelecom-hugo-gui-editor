@@ -1,17 +1,16 @@
 Collecting Requirements
 - Login via github
+- Navigate to different categories via menu
 - Create, edit, delete posts
-- Create, edit, delete category
 - Create preview screen for posts
 - Sync data to repository: sktelecom.github.io
 
 Functional Requirements
   - We need to build a gui-based content management app
     - Users are logged in to main via github's Oauth
+    - Users can navigate to different categories via menu
     - Users can edit, delete and add posts
-    - Users can edit, delete and add categories
-    - The
-    - All changes
+    - All changes should be uploaded to github via pull request
 
   - We need to build a note taking app. Users can create an edit text-based notes.
   Users can create an edit text-based notes. A note may also include images or hand-drawn sketches
