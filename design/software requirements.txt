@@ -8,6 +8,9 @@ Example
   - Sync data to dropbox, iCloud, or Google drive
 
 Functional Requirements
+  - It's a first draft to distilled requirements
+
+
 
 Non-Functional Requirements
 
