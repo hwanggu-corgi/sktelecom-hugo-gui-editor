@@ -1,5 +1,11 @@
-Features of Application
+Collecting Requirements
 
+Example
+  - Create and edit text-based notes
+  - Attach photos
+  - Capture hand drawn skteches
+  - Allow protective/sensitive notes
+  - Sync data to dropbox, iCloud, or Google drive
 
 Functional Requirements
 
