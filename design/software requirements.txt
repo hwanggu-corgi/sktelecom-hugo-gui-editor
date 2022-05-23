@@ -1,6 +1,6 @@
 Collecting Requirements
 - Login via github
-- Navigate to different categories via menu
+- Navigate to different categories via sidebar menu
 - Create, edit, delete posts
 - Create preview screen for posts
 - Sync data to repository: sktelecom.github.io
@@ -10,19 +10,9 @@ Functional Requirements
     - Users are logged in to main via github's Oauth
     - Users can navigate to different categories via menu
     - Users can edit, delete and add posts
+    - Users can preview created post via local host
     - All changes should be uploaded to github via pull request
-
-  - We need to build a note taking app. Users can create an edit text-based notes.
-  Users can create an edit text-based notes. A note may also include images or hand-drawn sketches
-
-  - Sensitive notes can be protected from prying eyes using password
-  - The app automatically uploads changes to pre-configured servers. We should support all major platforms:
-  Dropbox, iCloud, Google Drive
+    - All data should be synced to sktelecom.github.io
 
 Non-Functional Requirements
-  - Includes: which platform to target, support page
-
-  Example
-  - Release our app for iOS first. We'll support iOS 10 and newer versions. The app needs to run on the iPhone and iPad as well.
-  - We'll create a dedicated support website and include the link in the app's description and it's About page
-
+  - We will use flutter to hasten rapid release of app
