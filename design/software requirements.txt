@@ -16,3 +16,4 @@ Functional Requirements
 
 Non-Functional Requirements
   - We will use flutter to hasten rapid release of app
+
