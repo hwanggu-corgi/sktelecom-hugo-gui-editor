@@ -1,13 +1,4 @@
-Collecting Requirements
-- Login via github
-- Navigate to different categories via sidebar menu
-- Create, edit, delete posts
-- Create preview screen for posts
-- Sync data to repository: sktelecom.github.io
-
-Functional Requirements
-  - We need to build a gui-based content management app
-
+User Stories
   - Epic 1 - Syncing to server
     - Users are synced to sktelecom.github.io on start
     - Users are synced to sktelecom-github.io every minute to stay up to date
@@ -34,7 +25,3 @@ Functional Requirements
     - Users posts are commited if all is valid
     - User posts are automatically uploaded to github via branch and creates a pull request
     - Users should be lead back to previous page on create / edit
-
-Non-Functional Requirements
-  - We will use flutter to hasten rapid release of app
-
